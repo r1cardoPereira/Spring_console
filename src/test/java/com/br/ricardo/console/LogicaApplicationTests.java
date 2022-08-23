@@ -10,4 +10,6 @@ class LogicaApplicationTests {
 	void contextLoads() {
 	}
 
+	
+
 }
